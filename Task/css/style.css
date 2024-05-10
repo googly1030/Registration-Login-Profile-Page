@@ -1,0 +1,21 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-image: url("/assets/page_bg_blur02.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.center2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-47%, -50%);
+}
+input {
+  width: 100%;
+  text-align: center;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: none;
+  border: 2px solid #b69f9f;
+}
